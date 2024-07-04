@@ -1,4 +1,4 @@
-# EEG-to-Text Decoding using LLMs and Real-Time Web App for Communication Assistance
+# EEG-to-Text Decoding using LLMs and Real-Time Web App for inference
 
 Our project leverages EEG (electroencephalography) technology and powerful large language models (LLMs) to decode brain signals into text and implement this in real-time. Our goal is to provide a communication tool for individuals with severe communication impairments.
 
