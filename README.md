@@ -2,21 +2,21 @@
 
 Our project leverages EEG (electroencephalography) technology and powerful large language models to decode brain signals into  text as well implement it in real time. Our goal is to provide a communication tool for individuals with severe communication impairments.
 
-### Research Paper Implementation [drive link](https://drive.google.com/drive/folders/1Pep7mpqO65n41xJj0R9teEq9ex8wlekE?usp=drive_link)
+## Research Paper Implementation [drive link](https://drive.google.com/drive/folders/1Pep7mpqO65n41xJj0R9teEq9ex8wlekE?usp=drive_link)
 We have used the implemented C-SCL on the preencoder along with the pretrained BART model to produce text from the EEG signals.
 Find the C-SCL trained preencoder weights with different labelled training configuration in saved_models_cscl folder.
 And find the entire model weights in src-> checkpoints and then view the best checkpoints after entire training or the last.
 
-### Getting Started with the web app
+## Getting Started with the web app
 
-## Prerequisites
+### Prerequisites
 
 * Python (3.7 or higher recommended)
 * Node.js and npm (or yarn)
 * Muselsl (EEG streaming library): Install following their guide: [https://github.com/alexandrebarachant/muse-lsl](https://github.com/alexandrebarachant/muse-lsl)
 * A compatible EEG device that can stream data using Muselsl
 
-## Installation & Setup
+### Installation & Setup
 
 1. **Download the Project:** Clone or download this repository to your local machine.
 
