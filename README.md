@@ -18,9 +18,9 @@ This project leverages EEG (electroencephalography) technology and powerful lang
 2. **Install Dependencies:**
    ```bash
    cd <project_directory>
-   npm install         # Installs main project dependencies
+   npm install         #this installs main project dependencies
    cd frontend
-   npm install         # Installs frontend dependencies
+   npm install         #this then installs frontend dependencies
    cd ..
 3. **Start your frontend :**
    ```bash
